@@ -1,2 +1,10 @@
-# riftbound-draft-simulator
-Draft Simulator WIP for the Riftbound League of Legends TCG
+# Riftbound Draft Simulator
+
+A draft simulator for the Riftbound TCG.
+
+## Planned Features
+
+- Card database
+- Draft pack generation
+- Single player draft simulator
+- Multiplayer drafting

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Overzealous Fan",
+        "rarity": "Common",
+        "type": "Unit",
+        "domain": "Chaos",
+        "set": "SFD"
+    },
+    {
+        "name": "Bellows Breath",
+        "rarity": "Rare",
+        "type": "Spell",
+        "domain": "Mind",
+        "set": "SFD"
+    },
+    {
+        "name": "Pirate's Haven",
+        "rarity": "Uncommon",
+        "type": "Gear",
+        "domain": "Body",
+        "set": "OGN"
+    }
+]
